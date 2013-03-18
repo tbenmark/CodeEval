@@ -1,3 +1,4 @@
+# Write a program to determine the sum of the first 1000 prime numbers.
 require 'mathn'
 
 num_primes = 0
